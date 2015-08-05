@@ -2,7 +2,6 @@
 
 namespace peckrob\Laravel5ImapAuthentication;
 
-use App\Auth\ImapUserProvider;
 use Illuminate\Support\ServiceProvider;
 
 class ImapAuthServiceProvider extends ServiceProvider
