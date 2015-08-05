@@ -1,0 +1,21 @@
+{
+    "name": "rebeccathedev/laravel5-imap-authentication",
+    "description": "An authentication provider for Laravel 5 that allows you to authenticate via IMAP.",
+    "type": "library",
+    "require": {
+        "ddeboer/imap": "^0.5.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rebecca Peck",
+            "email": "me@rebeccapeck.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "rebeccathedev\\Laravel5ImapAuthentication\\": "src/"
+        }
+    }
+}
