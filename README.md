@@ -48,3 +48,5 @@ IMAP_AUTH_SERVER=mail.example.com
 Contributions are welcome. :)
 
 https://github.com/rebeccathedev/laravel5-imap-authentication
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q3W726YTHU)
